@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Rent a pet</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../mystyles.css">
+<script type="text/javascript" src="../mysripts.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body onload="">
+    <div id="container">
+        <header>
+            <img src="../AboutUs.html/images/RentAPetP3/RentAPet/AboutUs/logo.jpg" alt="logo" >
+            <img src="../AboutUs.html/images/RentAPetP3/RentAPet/AboutUs/banner2.jpg" alt="banner" width="400px"> 
+            <nav>
+                <ul class="navagation">
+                    <li> <a href="#">Home</a></li>
+                    <li> <a href="#">About Us</a></li>
+                    <li> <a href="#">Tributes</a></li>
+                    <li> <a href="#">Survey</a></li>
+                    <li> <a href="#">Favoirtes</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section><!-- TemplateBeginEditable name="Pagecontent" -->
+			
+            <article>
+                
+            </article>
+			Pagecontent<!-- TemplateEndEditable -->
+            <footer></footer>
+        </section>
+    </div>
+
+
+
+</body>
+</html>
